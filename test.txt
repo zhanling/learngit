@@ -1,1 +1,3 @@
 Today is sunday.
+I have cloned a new repository in github.
+push new project to origin.
