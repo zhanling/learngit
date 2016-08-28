@@ -1,5 +1,5 @@
 git is a distributed version control system.
-git is free software.
+git is a free software.
 hello world.
 beijing is a nice city.
 I love beijing.
