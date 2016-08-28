@@ -1,4 +1,5 @@
 Today is sunday.
 I have cloned a new repository in github.
 push new project to origin.
-Creating a new branch is quick CMD simple.
+Creating a new branch is quick and simple.
+
